@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 11LC020T-E_TT
+D EEPROM,11LC020T-E/TT  SOT-23-3 - 2kbit - 256x8 - Serial 1-Wire SDQ - 100kHz 50uA 2.5V 5.5V - 40 + 125
+K  SOT-23-3 - 2kbit - 256x8 - Serial 1-Wire SDQ - 100kHz 50uA 2.5V 5.5V - 40 + 125
+F https://www.mouser.fr/datasheet/2/268/22067J-78196.pdf
+$ENDCMP
+#
+$CMP AD7490BRUZ
+D AD7490BRUZ, 12-Bit Analogue to Digital Converter, SPI, Microwire, 28-Pin TSSOP
+F http://www.analog.com/static/imported-files/data_sheets/AD7490.pdf
+$ENDCMP
+#
+$CMP AD780ARZ
+D AD780ARZ, Programmable Voltage Reference 2.495 to 2.505 V, 2.995 to 3.005 V, 5mV Accuracy, 10mA 36V max. 8-Pin SOIC
+F http://www.analog.com/static/imported-files/data_sheets/AD780.pdf
+$ENDCMP
+#
+$CMP HDMI-A_Through
+D TE CONNECTIVITY - 1746679-1 - CONNECTOR, HDMI, RECEPTACLE, 19 POSITION
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1746679%7FB1%7Fpdf%7FEnglish%7FENG_CD_1746679_B1.pdf%7F1746679-1
+$ENDCMP
+#
+$CMP SW_6P3T_Slide6x3
+D 4 rotary switches with 3 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
+$CMP SW_Slide_DP3T
+D Switch, triple pole double throw
+K switch triple-pole double-throw spdt ON-ON-ON
+F ~
+$ENDCMP
+#
+$CMP Sub-D50_F
+D D-Sub 50 Female, Amphenol FCI D Series, 50 Way Right Angle Through Hole Mount PCB D-sub Connector Socket, 2.76mm Pitch
+K Sub-D50, D-Sub50, DB50, DD50
+F http://docs-emea.rs-online.com/webdocs/0e52/0900766b80e52c42.pdf
+$ENDCMP
+#
+$CMP Sub-D50_M
+D D-Sub 50 Male, Amphenol FCI 50 Way Right Angle Through Hole mount PCB D-sub Connector Plug, 2.76mm Pitch
+K Sub-D50, D-Sub50, DB50, DD50
+F http://docs-emea.rs-online.com/webdocs/1104/0900766b81104a30.pdf
+$ENDCMP
+#
+#End Doc Library

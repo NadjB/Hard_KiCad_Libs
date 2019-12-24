@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DCCM15PCBRPN
+D D-Sub Micro-D Connectors 15P RA PCB cntcts Pin nickel plating
+K
+F https://www.belfuse.com/resources/catalogs/cinchconnectivitysolutions/duracon/cat-css-dura-dura-con-catalog.pdf
+$ENDCMP
+#
+#End Doc Library

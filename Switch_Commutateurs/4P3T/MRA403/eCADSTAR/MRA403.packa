@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MRA403"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-16-10:01:46)
+    (mountForm default
+        (footprintRef "MRA403")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DCCM15PCBRPN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DCCM15PCBRPN")
+        (spec "default")
+    )
+)

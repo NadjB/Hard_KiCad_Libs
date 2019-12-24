@@ -1,0 +1,18 @@
+.MRA403 :1 ;Rotary Switches 4P 3 POSITION SHAFT ACTUATOR PC NO KNOB
+MRA403
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=A1 14=B1 15=C1 16=D1
+*PLB 1="N.C._1" 2="N.O._1" 3="N.O._2" 4="N.C._2" 5="N.O._3" 6="N.O._4" 7="N.C._3" 8="N.O._5" 9="N.O._6" 10="N.C._4" 11="N.O._7" 12="N.O._8" 13="COM_1" 14="COM_2" 15="COM_3" 16="COM_4"
+*MXP 16
+*DFN MRA403
+~!Manufacturer_Name (NKK Switches)
+~!Manufacturer_Part_Number (MRA403)
+~!Mouser Part Number (633-MRA403)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=633-MRA403)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://www.nkkswitches.eu/products/Rotaries/Rotaries%20MR/MRA206-A/)
+~!Height (32mm)
+MRA403
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

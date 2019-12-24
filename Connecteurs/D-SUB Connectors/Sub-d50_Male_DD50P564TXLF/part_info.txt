@@ -1,0 +1,9 @@
+Manufacturer=FCI
+PartNumber=DD50P564TXLF
+PartCategory=Connector
+PackageCategory=Other
+PinCount=50
+Version=1.1
+Released=2016-12-27 19:20:47
+Downloaded=2019-12-04 14:03:49
+3D=N

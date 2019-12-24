@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD780ARZ
+D AD780ARZ, Programmable Voltage Reference 2.495 to 2.505 V, 2.995 to 3.005 V, 5mV Accuracy, 10mA 36V max. 8-Pin SOIC
+K
+F http://www.analog.com/static/imported-files/data_sheets/AD780.pdf
+$ENDCMP
+#
+#End Doc Library

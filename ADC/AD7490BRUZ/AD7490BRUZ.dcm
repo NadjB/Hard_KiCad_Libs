@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7490BRUZ
+D AD7490BRUZ, 12-Bit Analogue to Digital Converter, SPI, Microwire, 28-Pin TSSOP
+K
+F http://www.analog.com/static/imported-files/data_sheets/AD7490.pdf
+$ENDCMP
+#
+#End Doc Library

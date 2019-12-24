@@ -1,0 +1,9 @@
+Manufacturer=NKK Switches
+PartNumber=MRA403
+PartCategory=Switch
+PackageCategory=Other
+PinCount=16
+Version=1.1
+Released=2019-02-28 22:52:26
+Downloaded=2019-12-16 15:51:39
+3D=N

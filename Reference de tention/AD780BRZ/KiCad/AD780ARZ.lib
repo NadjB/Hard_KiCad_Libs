@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AD780ARZ
+#/3535/163274/2.43/8/3/Integrated Circuit
+DEF AD780ARZ IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "AD780ARZ" 1050 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 100 50 H I L CNN
+F3 "http://www.analog.com/static/imported-files/data_sheets/AD780.pdf" 1050 0 50 H I L CNN
+F4 "AD780ARZ, Programmable Voltage Reference 2.495 to 2.505 V, 2.995 to 3.005 V, 5mV Accuracy, 10mA 36V max. 8-Pin SOIC" 1050 -100 50 H I L CNN "Description"
+F5 "1.75" 1050 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AD780ARZ" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-AD780ARZ" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD780ARZ" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "5237976" 1050 -700 50 H I L CNN "RS Part Number"
+F11 "https://uk.rs-online.com/web/p/products/5237976" 1050 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X DNC_1 1 0 0 200 R 50 50 0 0 B
+X +VIN 2 0 -100 200 R 50 50 0 0 B
+X TEMP 3 0 -200 200 R 50 50 0 0 B
+X GND_1 4 0 -300 200 R 50 50 0 0 B
+X GND_2 8 1200 0 200 L 50 50 0 0 B
+X DNC_2 7 1200 -100 200 L 50 50 0 0 B
+X VOUT 6 1200 -200 200 L 50 50 0 0 B
+X TRIM 5 1200 -300 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

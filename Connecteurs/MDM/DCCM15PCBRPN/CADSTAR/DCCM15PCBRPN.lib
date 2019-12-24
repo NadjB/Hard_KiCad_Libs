@@ -1,0 +1,18 @@
+.DCCM15PCBRPN :1 ;D-Sub Micro-D Connectors 15P RA PCB cntcts Pin nickel plating
+DCCM15PCBRPN
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=MH1 17=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="MH1" 17="MH2"
+*MXP 17
+*DFN DCCM15PCBRPN
+~!Manufacturer_Name (Cinch)
+~!Manufacturer_Part_Number (DCCM15PCBRPN)
+~!Mouser Part Number (538-DCCM15PCBRPN)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=538-DCCM15PCBRPN)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://www.belfuse.com/resources/catalogs/cinchconnectivitysolutions/duracon/cat-css-dura-dura-con-catalog.pdf)
+~!Height (7.82mm)
+DCCM15PCBRPN
+1.1!U 3.1!U 5.1!U 7.1!U 9.1!U 11.1!U 13.1!U 15.1!U 17.1!U 2.1!U 4.1!U 6.1!U 8.1!U 10.1!U 12.1!U 14.1!U 16.1!U 

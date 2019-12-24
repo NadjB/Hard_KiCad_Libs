@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MRA403'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NKK Switches", "MRA403" (!) = "", "MRA403", "Other", "633-MRA403", "https://www.mouser.com/Search/Refine.aspx?Keyword=633-MRA403", "", "", "Rotary Switches 4P 3 POSITION SHAFT ACTUATOR PC NO KNOB", "https://www.nkkswitches.eu/products/Rotaries/Rotaries%20MR/MRA206-A/", "32 mm"
+END_PART
+
+END.
