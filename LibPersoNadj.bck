@@ -21,6 +21,12 @@ D TE CONNECTIVITY - 1746679-1 - CONNECTOR, HDMI, RECEPTACLE, 19 POSITION
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1746679%7FB1%7Fpdf%7FEnglish%7FENG_CD_1746679_B1.pdf%7F1746679-1
 $ENDCMP
 #
+$CMP SW_3PDT
+D Momentary Switch, dual pole double throw
+K switch dual-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
 $CMP SW_6P3T_Slide6x3
 D 4 rotary switches with 3 positions
 K rotary switch

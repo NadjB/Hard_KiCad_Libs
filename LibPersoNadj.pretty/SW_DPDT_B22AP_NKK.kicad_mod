@@ -1,4 +1,4 @@
-(module SW_DPDT_B22AP_NKK (layer F.Cu) (tedit 5E00CB4D)
+(module SW_DPDT_B22AP_NKK (layer F.Cu) (tedit 5E01EB9F)
   (descr "Switch DPDT NKK http://www.nkkswitches.com/pdf/Btoggles.pdf")
   (tags "SWITCH TOGGLE DPDT")
   (fp_text reference REF** (at -1.27 -4.74) (layer F.SilkS)

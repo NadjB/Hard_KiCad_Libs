@@ -1,4 +1,4 @@
-(module DCCM15SCBRPN (layer F.Cu) (tedit 5DFBA2BC)
+(module DCCM15SCBRPN (layer F.Cu) (tedit 5E05DBD6)
   (descr "MDM 15 connector Female, 90°, Narrow")
   (tags "Connector, MDM, MDM 15, D-Sub15, DB15, DD15, Female, Socket")
   (fp_text reference J** (at 0 4) (layer F.SilkS)
@@ -57,4 +57,9 @@
   (pad 11 thru_hole circle (at 1.271 2.54) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 3.81 2.54) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 6.35 2.54) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
+  (model ${PERSO}/Connectors/MDM/gmr7590-15s1bsm.stp
+    (offset (xyz 0 5.5 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )
