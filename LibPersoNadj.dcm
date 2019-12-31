@@ -33,6 +33,12 @@ K rotary switch
 F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
 $ENDCMP
 #
+$CMP SW_6P3T_Slide6x3Old
+D 4 rotary switches with 3 positions
+K rotary switch
+F http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf
+$ENDCMP
+#
 $CMP SW_Slide_DP3T
 D Switch, triple pole double throw
 K switch triple-pole double-throw spdt ON-ON-ON
