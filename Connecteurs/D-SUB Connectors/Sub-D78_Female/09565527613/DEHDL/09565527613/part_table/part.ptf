@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '09565527613'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "ALLIED_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "HARTING", "09565527613" (!) = "", "09565527613", "Other", "617-09-56-552-7613", "https://www.mouser.com/Search/Refine.aspx?Keyword=617-09-56-552-7613", "", "", "70738195", "https://www.alliedelec.com/harting-09565527613/70738195/", "HARTING - 09565527613 - HD D-SUB CONNECTOR, RECEPTACLE, 78POS", "https://b2b.harting.com/files/download/PRD/PDF_TS/0956552X613_100510350DRW001D.pdf"
+END_PART
+
+END.
