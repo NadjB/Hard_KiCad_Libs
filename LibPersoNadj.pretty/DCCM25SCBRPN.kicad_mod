@@ -1,4 +1,4 @@
-(module DCCM25SCBRPN (layer F.Cu) (tedit 5E05DCB7)
+(module DCCM25SCBRPN (layer F.Cu) (tedit 5E5CE2AF)
   (descr "MDM 25 connector Female, 90°, Narrow")
   (tags "Connector, MDM, MDM 25, D-Sub25, DB25, DD25, Female, Socket")
   (fp_text reference J** (at 0 7) (layer F.SilkS)
@@ -65,8 +65,8 @@
   (pad 7 thru_hole circle (at 0 0) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at -2.54 0) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 22 thru_hole circle (at -5.08 0) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
-  (pad 0 thru_hole circle (at -13.53 0.508) (size 4.155 4.155) (drill 2.77) (layers *.Cu *.Mask))
-  (pad 0 thru_hole circle (at 13.53 0.508) (size 4.155 4.155) (drill 2.77) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -12.255 0.508) (size 2.45 2.45) (drill 2.45) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 12.255 0.508) (size 2.45 2.45) (drill 2.45) (layers *.Cu *.Mask))
   (model ${PERSO}/Connectors/MDM/gmr7590-25s1bsm.step
     (offset (xyz 0 5.5 4.5))
     (scale (xyz 1 1 1))
