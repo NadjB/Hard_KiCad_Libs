@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAM3S4BA-AU
+D Atmel ATSAM3S4BA-AU, 32bit ARM Cortex M3 Microcontroller, 64MHz, 256 kB Flash, 64-Pin LQFP
+K
+F http://www.atmel.com/Images/Atmel-6500-32-bit-Cortex-M3-Microcontroller-SAM3S4-SAM3S2-SAM3S1_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

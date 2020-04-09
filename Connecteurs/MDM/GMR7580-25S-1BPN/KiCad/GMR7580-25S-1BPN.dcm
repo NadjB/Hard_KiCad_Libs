@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GMR7580-25S-1BPN
+D Connector,rectangular,multipole,micro D,0.075 inch pitch,straight PCB,socket,25 way
+K
+F https://cdn.glenair.com/micro-d/pdf/c/gmr7580.pdf
+$ENDCMP
+#
+#End Doc Library
