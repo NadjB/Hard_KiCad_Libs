@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS7A4700RGWR
+D 36-V, 1-A, 4.17-uVRMS, RF low-dropout (LDO) voltage regulator
+K
+F http://www.ti.com/lit/gpn/tps7a47
+$ENDCMP
+#
+#End Doc Library

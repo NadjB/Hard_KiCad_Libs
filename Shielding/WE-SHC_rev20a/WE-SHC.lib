@@ -1,0 +1,954 @@
+# FORMAT 32
+
++N0 'root' &
+'3610213126S' &
+'36103166S' &
+'36103205' &
+'36103205S' &
+'36503205' &
+'36503205S' &
+'36903205S' &
+'36103255' &
+'36103255S' &
+'36105266S' &
+'36503255' &
+'36503255S' &
+'36903255S' &
+'36905266S' &
+'36103305' &
+'36103305S' &
+'36106326S' &
+'3610536336S' &
+'3610637256S' &
+'36503305' &
+'36903305S' &
+'36906326S' &
+'36107406S' &
+'36907406S' &
+'36103505' &
+'36103505S' &
+'36503505' &
+'36503505S' &
+'36103605' &
+'36103605S' &
+'36503605' &
+'36503605S' &
+'36900000' &
+'3690103020' &
+'3690103021' &
+'3690103022' &
+'3690103023' &
+'36503305S'
+
+.3610213126S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 13.26x12.3x2.54mm
+3610213126S
+*STM MP
+*MXP 12
+*DFN 3610213126S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (13.26x12.3x2.54mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3610213126S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3610213126S.pdf)
+~Length (13.26mm)
+~Width (12.3mm)
+~Height (2.54mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (2.54)
+WE-SHC_12pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0
+
+.36103166S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 16.1x16.1x3.6mm
+36103166S
+*STM MP
+*MXP 12
+*DFN 36103166S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (16.1x16.1x3.6mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103166S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103166S.pdf)
+~Length (16.1mm)
+~Width (16.1mm)
+~Height (3.6mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3.6)
+WE-SHC_12pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0
+
+.36103205 :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 20x20x3mm
+36103205
+*STM MP
+*MXP 16
+*DFN 36103205
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (20x20x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103205)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103205.pdf)
+~Length (20mm)
+~Width (20mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_16pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0
+
+.36103205S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 20x20x3mm
+36103205S
+*STM MP
+*MXP 16
+*DFN 36103205S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (20x20x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103205S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103205S.pdf)
+~Length (20mm)
+~Width (20mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_16pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0
+
+.36103255 :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 25x25x3mm
+36103255
+*STM MP
+*MXP 20
+*DFN 36103255
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25x25x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103255)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103255.pdf)
+~Length (25mm)
+~Width (25mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36103255S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 25x25x3mm
+36103255S
+*STM MP
+*MXP 20
+*DFN 36103255S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25x25x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103255S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103255S.pdf)
+~Length (25mm)
+~Width (25mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36105266S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 25.81x25.81x4.88mm
+36105266S
+*STM MP
+*MXP 20
+*DFN 36105266S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25.81x25.81x4.88mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36105266S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36105266S.pdf)
+~Length (25.81mm)
+~Width (25.81mm)
+~Height (4.88mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (4.88)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36103305 :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 30x30x3mm
+36103305
+*STM MP
+*MXP 24
+*DFN 36103305
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (30x30x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103305)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103305.pdf)
+~Length (30mm)
+~Width (30mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36103305S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 30x30x3mm
+36103305S
+*STM MP
+*MXP 24
+*DFN 36103305S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (30x30x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103305S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103305S.pdf)
+~Length (30mm)
+~Width (30mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36106326S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 31.6x31.6x5.8mm
+36106326S
+*STM MP
+*MXP 24
+*DFN 36106326S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (31.6x31.6x5.8mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36106326S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36106326S.pdf)
+~Length (31.6mm)
+~Width (31.6mm)
+~Height (5.8mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (5.8)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.3610536336S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 36.43x33.28x5.08mm
+3610536336S
+*STM MP
+*MXP 24
+*DFN 3610536336S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (36.43x33.28x5.08mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3610536336S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3610536336S.pdf)
+~Length (36.43mm)
+~Width (33.28mm)
+~Height (5.08mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (5.08)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.3610637256S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 37.7x25x6mm
+3610637256S
+*STM MP
+*MXP 24
+*DFN 3610637256S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (37.7x25x6mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3610637256S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3610637256S.pdf)
+~Length (37.7mm)
+~Width (25mm)
+~Height (6mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (6)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36107406S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 43.97x43.97x9.55mm
+36107406S
+*STM MP
+*MXP 32
+*DFN 36107406S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (43.97x43.97x9.55mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36107406S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36107406S.pdf)
+~Length (43.97mm)
+~Width (43.97mm)
+~Height (9.55mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (9.55)
+WE-SHC_32pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0
+
+.36103505 :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tape and Reel, 50x50x3mm
+36103505
+*STM MP
+*MXP 40
+*DFN 36103505
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (50x50x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103505)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103505.pdf)
+~Length (50mm)
+~Width (50mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_40pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0
+
+.36103505S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 50x50x3mm
+36103505S
+*STM MP
+*MXP 40
+*DFN 36103505S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (50x50x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103505S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103505S.pdf)
+~Length (50mm)
+~Width (50mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_40pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0
+
+.36103605 :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 60x60x3mm
+36103605
+*STM MP
+*MXP 48
+*DFN 36103605
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (60x60x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103605)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103605.pdf)
+~Length (60mm)
+~Width (60mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_48pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 &
+48.0
+
+.36103605S :2 ;WE-SHC Shielding Cabinet, SMT Frame, Tin Plated, Tray, 60x60x3mm
+36103605S
+*STM MP
+*MXP 48
+*DFN 36103605S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (60x60x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36103605S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36103605S.pdf)
+~Length (60mm)
+~Width (60mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (SMD Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_48pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 &
+48.0
+
+.36503205 :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 20x20x3mm
+36503205
+*STM MP
+*MXP 16
+*DFN 36503205
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (20x20x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503205)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503205.pdf)
+~Length (20mm)
+~Width (20mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_16pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0
+
+.36503205S :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 20x20x3mm
+36503205S
+*STM MP
+*MXP 16
+*DFN 36503205S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (20x20x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503205S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503205S.pdf)
+~Length (20mm)
+~Width (20mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_16pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0
+
+.36503255 :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 25x25x3mm
+36503255
+*STM MP
+*MXP 20
+*DFN 36503255
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25x25x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503255)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503255.pdf)
+~Length (25mm)
+~Width (25mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36503255S :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 25x25x3mm
+36503255S
+*STM MP
+*MXP 20
+*DFN 36503255S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25x25x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503255S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503255S.pdf)
+~Length (25mm)
+~Width (25mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36503305 :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 30x30x3mm
+36503305
+*STM MP
+*MXP 24
+*DFN 36503305
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (30x30x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503305)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503305.pdf)
+~Length (30mm)
+~Width (30mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36503505 :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 50x50x3mm
+36503505
+*STM MP
+*MXP 40
+*DFN 36503505
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (50x50x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503505)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503505.pdf)
+~Length (50mm)
+~Width (50mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_40pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0
+
+.36503505S :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 50x50x3mm
+36503505S
+*STM MP
+*MXP 40
+*DFN 36503505S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (50x50x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503505S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503505S.pdf)
+~Length (50mm)
+~Width (50mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_40pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0
+
+.36503605 :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 60x60x3mm
+36503605
+*STM MP
+*MXP 48
+*DFN 36503605
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (60x60x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503605)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503605.pdf)
+~Length (60mm)
+~Width (60mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_48pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 &
+48.0
+
+.36503605S :2 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 60x60x3mm
+36503605S
+*STM MP
+*MXP 48
+*DFN 36503605S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (60x60x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503605S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36503605S.pdf)
+~Length (60mm)
+~Width (60mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_48pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 &
+33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 &
+48.0
+
+.3690103020 :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tray, 3.1x3.1x0.89mm
+3690103020
+*STM MP
+*MXP 6
+*DFN 3690103020
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (3.1x3.1x0.89mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3690103020)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3690103020.pdf)
+~Length (3.1mm)
+~Width (3.1mm)
+~Height (0.89mm)
+~Base Material (Brass)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (0.89)
+WE-SHC_6pins
+1.0 2.0 3.0 4.0 5.0 6.0
+
+.3690103021 :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 3.1x3.1x0.89mm
+3690103021
+*STM MP
+*MXP 6
+*DFN 3690103021
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (3.1x3.1x0.89mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3690103021)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3690103021.pdf)
+~Length (3.1mm)
+~Width (3.1mm)
+~Height (0.89mm)
+~Base Material (Brass)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (0.89)
+WE-SHC_6pins
+1.0 2.0 3.0 4.0 5.0 6.0
+
+.3690103022 :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 3.1x3.1x0.89mm
+3690103022
+*STM MP
+*MXP 6
+*DFN 3690103022
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (3.1x3.1x0.89mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3690103022)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3690103022.pdf)
+~Length (3.1mm)
+~Width (3.1mm)
+~Height (0.89mm)
+~Base Material (Brass)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (0.89)
+WE-SHC_6pins
+1.0 2.0 3.0 4.0 5.0 6.0
+
+.3690103023 :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 3.1x3.1x0.89mm
+3690103023
+*STM MP
+*MXP 6
+*DFN 3690103023
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (3.1x3.1x0.89mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (3690103023)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/3690103023.pdf)
+~Length (3.1mm)
+~Width (3.1mm)
+~Height (0.89mm)
+~Base Material (Brass)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (0.89)
+WE-SHC_6pins
+1.0 2.0 3.0 4.0 5.0 6.0
+
+.36903205S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 20x20x3mm
+36903205S
+*STM MP
+*MXP 16
+*DFN 36903205S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (20x20x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36903205S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36903205S.pdf)
+~Length (20mm)
+~Width (20mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_16pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0
+
+.36903255S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 25x25x3mm
+36903255S
+*STM MP
+*MXP 20
+*DFN 36903255S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25x25x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36903255S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36903255S.pdf)
+~Length (25mm)
+~Width (25mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36905266S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 25.81x25.81x4.88mm
+36905266S
+*STM MP
+*MXP 20
+*DFN 36905266S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (25.81x25.81x4.88mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36905266S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36905266S.pdf)
+~Length (25.81mm)
+~Width (25.81mm)
+~Height (4.88mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (4.88)
+WE-SHC_20pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0
+
+.36903305S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 30x30x3mm
+36903305S
+*STM MP
+*MXP 24
+*DFN 36903305S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (30x30x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36903305S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36903305S.pdf)
+~Length (30mm)
+~Width (30mm)
+~Height (3mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (3)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36906326S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 31.6x31.6x5.8mm
+36906326S
+*STM MP
+*MXP 24
+*DFN 36906326S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (31.6x31.6x5.8mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36906326S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36906326S.pdf)
+~Length (31.6mm)
+~Width (31.6mm)
+~Height (5.8mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (5.8)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.36907406S :2 ;WE-SHC Shielding Cabinet, One Piece, Tin Plated, Tape and Reel, 43.97x43.97x9.55mm
+36907406S
+*STM MP
+*MXP 32
+*DFN 36907406S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (43.97x43.97x9.55mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36907406S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36907406S.pdf)
+~Length (43.97mm)
+~Width (43.97mm)
+~Height (9.55mm)
+~Base Material (Tin plate)
+~Type (One Piece)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (9.55)
+WE-SHC_32pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0
+
+.36900000 :2 ;WE-SHC Shielding Cabinet, Clip, Tin Plated, Tape and Reel, 6.5x0.8x1.27mm
+36900000
+*STM MP
+*MXP 5
+*DFN 36900000
+~Part Description (WE-SHC Shielding Cabinet)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36900000)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://katalog.we-online.com/pbs/datasheet/36900000.pdf)
+~Length (6.5mm)
+~Width (0.8mm)
+~Height (1.27mm)
+~Base Material (Tin plate)
+~Type (Clip)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (SMT)
+~Packaging (Tape and Reel)
+~Height/mm (1.27)
+WE-SHC_4pins
+1.0 2.0 3.0 4.0
+
+.36503305S :1 ;WE-SHC Shielding Cabinet, THT Frame, Tin Plated, Tray, 30.4x30.4x3mm
+36503305S
+*STM MP
+*MXP 24
+*DFN 36503305S
+~Part Description (WE-SHC Shielding Cabinet)
+$Value (30.4x30.4x3mm)
+~Manufacturer (Wurth Elektronik)
+~Manufacturer Part Number (36503305S)
+~Link Manufacturer (http://www.we-online.de)
+~Link Datasheet (https://www.we-online.com/catalog/datasheet/36503305S.pdf)
+~Length (30.4mm)
+~Width (30.4mm)
+~Height (3mm)
+~Base Material (Steel)
+~Type (THT Frame)
+~Operating Temperature (-40 to +125degC)
+~Mounting Technology (THT)
+~Packaging (Tray)
+~Height/mm (3)
+WE-SHC_24pins
+1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 &
+18.0 19.0 20.0 21.0 22.0 23.0 24.0
+
+.END
