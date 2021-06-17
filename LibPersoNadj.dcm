@@ -16,14 +16,32 @@ D AD780ARZ, Programmable Voltage Reference 2.495 to 2.505 V, 2.995 to 3.005 V, 5
 F http://www.analog.com/static/imported-files/data_sheets/AD780.pdf
 $ENDCMP
 #
+$CMP ADT2-1T
+D 0.40-450MHz 1:2 RF Transformer, Unbalanced to Balanced Center Tap, CD542
+K Mini-Circuits RF Transformer
+F https://www.minicircuits.com/pdfs/ADT2-1T+.pdf
+$ENDCMP
+#
+$CMP ADT3-1T
+D 1-500MHz 1:3 RF Transformer, Unbalanced to Balanced Center Tap, CD542
+K Mini-Circuits RF Transformer
+F https://www.minicircuits.com/pdfs/ADT3-1T+.pdf
+$ENDCMP
+#
+$CMP ADT3-1T-75
+D 1-500MHz 1:3 RF Transformer, Unbalanced to Balanced Center Tap, CD542
+K Mini-Circuits RF Transformer
+F https://www.minicircuits.com/pdfs/ADT3-1T-75+.pdf
+$ENDCMP
+#
 $CMP HDMI-A_Through
 D TE CONNECTIVITY - 1746679-1 - CONNECTOR, HDMI, RECEPTACLE, 19 POSITION
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1746679%7FB1%7Fpdf%7FEnglish%7FENG_CD_1746679_B1.pdf%7F1746679-1
 $ENDCMP
 #
 $CMP HMC860LP3E
-D HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT 
-K HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT 
+D HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
+K HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
 F http://www.analog.com/media/en/technical-documentation/data-sheets/hmc860.pdf
 $ENDCMP
 #
