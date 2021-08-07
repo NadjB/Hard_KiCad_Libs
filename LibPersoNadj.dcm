@@ -45,6 +45,12 @@ D TE CONNECTIVITY - 1746679-1 - CONNECTOR, HDMI, RECEPTACLE, 19 POSITION
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1746679%7FB1%7Fpdf%7FEnglish%7FENG_CD_1746679_B1.pdf%7F1746679-1
 $ENDCMP
 #
+$CMP HMC1060LP3E
+D HMC1060LP3E Quad LDO VCO Supply  HMC1060LP3E, Quad ultra low noise Adjustable Voltage outputs, High (PSSR) Regulator , Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
+K HMC1060LP3E Quad LDO VCO Supply  HMC1060LP3E , Quad ultra low noise Adjustable Voltage outputs, High (PSSR) Regulator, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
+F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc1060.pdf
+$ENDCMP
+#
 $CMP HMC860LP3E
 D HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
 K HMC860LP3E Quad LDO VCO Supply  HMC860LP3E, Up-Down Converter & Mixer Circuit 4.8  5.6 V 16-Pin SMT
