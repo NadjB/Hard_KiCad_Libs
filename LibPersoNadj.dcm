@@ -8,7 +8,7 @@ $ENDCMP
 #
 $CMP AD5932
 D Programmable Waveform Generator Frequency Scan  25 MHz
-K Programmable Waveform Generator Frequency Scan Sinusoidal triangular square 
+K Programmable Waveform Generator Frequency Scan Sinusoidal triangular square
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5932.pdf
 $ENDCMP
 #
@@ -67,6 +67,14 @@ $CMP HMC900LP5E
 D Analog Devices Hittite HMC900LP5E, Active Filter, Dual, Low Pass Filter, 6th Order Switched Discrete Filter, 32-Pin QFN
 K HMC900LP5E Analog Devices Hittite HMC900LP5E, Active Filter, Dual, Low Pass Filter, 6th Order Switched Discrete Filter, 32-Pin QFN
 F https://www.analog.com/media/en/technical-documentation/data-sheets/hmc900.pdf
+$ENDCMP
+#
+$CMP LMH6881
+F https://www.ti.com/lit/ds/symlink/lmh6881.pdf
+$ENDCMP
+#
+$CMP LMH6881_raw
+F https://www.ti.com/lit/ds/symlink/lmh6881.pdf
 $ENDCMP
 #
 $CMP SW_3PDT
