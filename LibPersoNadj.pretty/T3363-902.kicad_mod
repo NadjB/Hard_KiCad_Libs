@@ -1,0 +1,178 @@
+(footprint "T3363-902"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Connectors DIN 5 Contact Receptacle")
+	(tags "Connectors DIN 5 Contact Receptacle Right Angle")
+	(property "Reference" "REF**"
+		(at 0 -16 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "249d9741-9447-43bb-9e19-d2bf886ce35b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "T3363-902"
+		(at 0 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f904e932-c02b-4f99-a99e-7f6d62f5c81c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.amphenol-sine.com/pdf/datasheet/T3363902.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57620926-a562-49e2-9438-7ed19af38069")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c494a7f8-63af-4e14-8fb7-51ed55026d51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5 -14)
+		(end 5 5.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "31b6efe5-b251-458a-a84a-a01066dc4a50")
+	)
+	(fp_line
+		(start -3.5 -13.5)
+		(end 3.5 -13.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "91f2c5ec-7634-45d0-a939-25f027d88183")
+	)
+	(fp_line
+		(start -3.5 -7)
+		(end -3.5 -13.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "15d636d9-429b-463a-967b-cca149836af5")
+	)
+	(fp_line
+		(start 3.5 -13.5)
+		(end 3.5 -7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "608ec701-b358-478f-a700-8c1063909201")
+	)
+	(fp_poly
+		(pts
+			(xy 5 5.5) (xy 5 0.5) (xy 4.5 0.5) (xy 4.5 0) (xy 5 0) (xy 5 -0.5) (xy 4.5 -1) (xy 4.5 -5) (xy 4 -5.5)
+			(xy 4 -7) (xy -4 -7) (xy -4 -5.5) (xy -4.5 -5) (xy -4.5 -1) (xy -5 -0.5) (xy -5 0) (xy -4.5 0) (xy -4.5 0.5)
+			(xy -5 0.5) (xy -5 5.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "3ccfc378-15cd-48a4-b9d6-1461e14ff6aa")
+	)
+	(fp_rect
+		(start -6 -15)
+		(end 6 6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "58ff3a4d-ec5f-490f-af73-f1d480aeeb67")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 11.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f89ed679-1c5e-4b81-ac2d-ecd3eab6b87f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3 -10)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "012f156e-5321-4875-b53c-1c803ec8353a")
+	)
+	(pad "2" thru_hole circle
+		(at -3 -13)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "730262d1-28d6-495b-9def-5919c960549f")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -13)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aab62271-59b2-4588-940f-5b4602311e80")
+	)
+	(pad "4" thru_hole circle
+		(at 3 -13)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de9bea6b-1e3c-47ec-bcc1-35c8d379ce87")
+	)
+	(pad "5" thru_hole circle
+		(at 3 -10)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "33d4936a-03fd-4892-9e95-db0ea5fdb65d")
+	)
+	(embedded_fonts no)
+)

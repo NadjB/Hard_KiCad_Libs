@@ -29,7 +29,7 @@
 			(justify mirror)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Arduino_Uno_R3_Shield_Double_Row"
 		(at -34.29 26.67 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -1154,7 +1154,7 @@
 		(remove_unused_layers no)
 		(uuid "b75965b6-e33a-4a63-99a0-40a19fd2204b")
 	)
-	(pad "IOREF" thru_hole oval
+	(pad "IORF" thru_hole oval
 		(at -3.81 21.59)
 		(size 1.7272 1.7272)
 		(drill 1.016)
@@ -1162,7 +1162,7 @@
 		(remove_unused_layers no)
 		(uuid "06a0836a-da32-4eea-ab9d-6c89df71c3af")
 	)
-	(pad "IOREF" thru_hole oval
+	(pad "IORF" thru_hole oval
 		(at -3.81 24.13)
 		(size 1.7272 1.7272)
 		(drill 1.016)
